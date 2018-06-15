@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+profile{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
